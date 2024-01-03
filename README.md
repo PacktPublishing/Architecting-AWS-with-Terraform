@@ -1,2 +1,2 @@
-# Mastering-Terraform-on-AWS
-Mastering Terraform on AWS, published by Packt
+# Architecting-AWS-with-Terraform
+Architecting AWS with Terraform, published by Packt
