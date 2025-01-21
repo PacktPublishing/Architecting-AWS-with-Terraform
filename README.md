@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/image.jpeg)](https://www.packtpub.com/)</p></b>Get this book on sale at [Packt](https://www.packtpub.com/).
-
 # Architecting AWS with Terraform
 
 <a href="https://www.packtpub.com/product/architecting-aws-with-terraform/9781803248561?utm_source=github&utm_medium=repository&utm_campaign=9781803248561"><img src="https://content.packt.com/B18198/cover_image_small.jpg" alt="Architecting AWS with Terraform" height="256px" align="right"></a>
